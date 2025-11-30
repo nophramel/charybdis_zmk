@@ -23,12 +23,12 @@ include:
     shield: charybdis_left
     keymap: qwerty
     format: bt
-    artifact-name: charybdis_qwerty_left
+    artifact-name: charybdis_mini_LEFT
   - board: nice_nano_v2
     shield: charybdis_right
     keymap: qwerty
     format: bt
-    artifact-name: charybdis_qwerty_right
+    artifact-name: charybdis_mini_RIGHT
     snippet: studio-rpc-usb-uart
 
   # # Colemak DH BT
